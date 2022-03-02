@@ -4,5 +4,6 @@ A small project dedicated to the digitisation of the (mostly) handwritten work o
 
 ## Scores
 
+- [De Profundis](scores/de-profundis)
 - Nanosonatas
   - [Book VI](scores/nanosonatas/book-VI)
