@@ -45,7 +45,7 @@
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <useStandardNoteNames>0</useStandardNoteNames>
-      <slurMidWidth>0.21</slurMidWidth>
+      <slurMidWidth>0.16</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
       <musicalTextFont>Leland Text</musicalTextFont>
       <footerFirstPage>0</footerFirstPage>
