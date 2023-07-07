@@ -8,8 +8,8 @@
     <page-offset>-1</page-offset>
     <Division>480</Division>
     <showInvisible>0</showInvisible>
-    <showUnprintable>1</showUnprintable>
-    <showFrames>1</showFrames>
+    <showUnprintable>0</showUnprintable>
+    <showFrames>0</showFrames>
     <showMargins>0</showMargins>
     <open>1</open>
     <metaTag name="arranger"></metaTag>
